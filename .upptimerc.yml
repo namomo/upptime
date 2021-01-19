@@ -10,6 +10,8 @@ sites:
     url: $EGG
   - name: D
     url: $D_SITE
+  - name: P
+    url: $P_SITE
     
 
 status-website:
