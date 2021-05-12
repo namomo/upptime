@@ -6,8 +6,6 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: EGG
-    url: $EGG
   - name: D
     url: $D_SITE
   #- name: P
