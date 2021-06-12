@@ -13,7 +13,7 @@
     "time": 84,
     "timeDay": 74,
     "timeWeek": 96,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "$D_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "d",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1091,
     "timeDay": 799,
     "timeWeek": 969,
-    "timeMonth": 976,
+    "timeMonth": 980,
     "timeYear": 1091,
     "dailyMinutesDown": {
+      "2021-06-12": 0,
       "2021-01-13": 57
     }
   }
